@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "option_list.h": "c",
+        "list.h": "c"
+    }
+}
